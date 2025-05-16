@@ -5,6 +5,7 @@
 
 - <b>Medical Cost Predictor</b>
   - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
+- <b>More to come soon!</b>
 
 <h2> Connect with me:</h2>
 
