@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Ken! <br/> Inventory Analyst, UCLA Master of Business Analytics Admit</h1>
+<b>Welcome to my very new portfolio!</b>
+
+<h2> Coding Portfolio:</h2>
+
+- <b>Medical Cost Predictor</b>
+  - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="Kenneth Petrowsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://linkedin.com/in/kenneth-petrowsky](https://www.linkedin.com/in/kenneth-petrowsky-582087135/)
 
 <!--
-**kpetrowsky/kpetrowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
