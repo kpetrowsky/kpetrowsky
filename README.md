@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Kenneth Petrowsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://linkedin.com/in/kenneth-petrowsky](https://www.linkedin.com/in/kenneth-petrowsky-582087135/)
+[linkedin]: https://linkedin.com/in/kenneth-petrowsky-582087135
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
