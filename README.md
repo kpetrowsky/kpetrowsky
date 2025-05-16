@@ -5,8 +5,8 @@
 
 - <b>Medical Cost Predictor</b>
   - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
-- <b>Medical Cost Predictor</b>
-  - [Reducing supply chain losses and increasing revenue through a dashboard that simluates surplus inventory](https://github.com/kpetrowsky/surplus-inventory-simulator)
+- <b>Inventory Forecast Dashboard</b>
+  - [Reducing supply chain losses and increasing revenue by developing this dashboard](https://github.com/kpetrowsky/surplus-inventory-simulator)
 - <b>More to come soon!</b>
 
 <h2> Connect with me:</h2>
