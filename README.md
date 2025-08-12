@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ken! <br/> Inventory Analyst, UCLA Master of Business Analytics Admit</h1>
+<h1>Hi, I'm Ken! <br/> Data Scientist, UCLA Master of Business Analytics Admit</h1>
 <b>Welcome to my very new portfolio!</b>
 
 <h2> Coding Portfolio:</h2>
