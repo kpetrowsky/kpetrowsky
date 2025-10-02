@@ -3,7 +3,7 @@
 
 <h2> Data Scientist Portfolio:</h2>
 
-- <b>Classic ML: k-nearest nieghbors recommendation system</b>
+- <b>Classical ML: k-nearest nieghbors recommendation system</b>
   - [Finding other wildernesses similar to the ones I like](https://github.com/kpetrowsky/wilderness_recommender)
 - <b>EDA: medical premium cost analysis</b>
   - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
