@@ -1,13 +1,20 @@
 <h1>Hi, I'm Ken! <br/> Data Scientist, UCLA Master of Business Analytics Admit</h1>
 <b>Welcome to my very new portfolio!</b>
 
-<h2> Coding Portfolio:</h2>
+<h2> Data Scientist Portfolio:</h2>
 
-- <b>Medical Cost Predictor</b>
+- <b>Classic ML: K-nearest nieghbors recommendation system</b>
+  - [Finding other wildernesses similar to the ones I like](https://github.com/kpetrowsky/wilderness_recommender)
+- <b>EDA: Medical premium cost analysis</b>
   - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
-- <b>Inventory Forecast Dashboard</b>
-  - [Reducing supply chain losses and increasing revenue by developing this dashboard](https://github.com/kpetrowsky/surplus-inventory-simulator)
+- <b>Git Bash: Editing .mp3 files with ffmpeg</b>
+  - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
 - <b>More to come soon!</b>
+
+<h2> Data Analyst Portfolio:</h2>
+
+- <b>Dashboarding: Surplus Inventory Forecast</b>
+  - [Reducing supply chain losses and increasing revenue by developing this dashboard](https://github.com/kpetrowsky/surplus-inventory-simulator)
 
 <h2> Connect with me:</h2>
 
