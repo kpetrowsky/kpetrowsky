@@ -3,11 +3,11 @@
 
 <h2> Data Scientist Portfolio:</h2>
 
-- <b>Classic ML: K-nearest nieghbors recommendation system</b>
+- <b>Classic ML: k-nearest nieghbors recommendation system</b>
   - [Finding other wildernesses similar to the ones I like](https://github.com/kpetrowsky/wilderness_recommender)
-- <b>EDA: Medical premium cost analysis</b>
+- <b>EDA: medical premium cost analysis</b>
   - [Predicting medical costs by analyzing the impact of isolated variables](https://github.com/kpetrowsky/medical-cost-predictor)
-- <b>Git Bash: Editing .mp3 files with ffmpeg</b>
+- <b>Git Bash: editing .mp3 files with ffmpeg</b>
   - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
 - <b>More to come soon!</b>
 
