@@ -1,11 +1,12 @@
 <h1>Hi, I'm Ken! <br/> Data Scientist, UCLA Master of Business Analytics Admit</h1>
-<b>Welcome to my very new portfolio!</b>
+<b>Welcome to my portfolio!</b>
 
 <h2> Software Development:</h2>
- - <b>My first deployed website</b>
-   - https://p1-static-site.vercel.app/
- - <b>Git Bash: editing .mp3 files with ffmpeg</b>
-   - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
+
+- <b>My first deployed website</b>
+  - (https://p1-static-site.vercel.app/)  
+- <b>Git Bash: editing .mp3 files with ffmpeg</b>
+  - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
 
 <h2> Data Science:</h2>
 
