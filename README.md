@@ -2,8 +2,10 @@
 <b>Welcome to my very new portfolio!</b>
 
 <h2> Software Development:</h2>
-- <b>Git Bash: editing .mp3 files with ffmpeg</b>
-  - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
+ - <b>My first deployed website</b>
+   - https://p1-static-site.vercel.app/
+ - <b>Git Bash: editing .mp3 files with ffmpeg</b>
+   - [Creating the perfect sleep music for my baby boy](https://github.com/kpetrowsky/baby_sleep_music)
 
 <h2> Data Science:</h2>
 
